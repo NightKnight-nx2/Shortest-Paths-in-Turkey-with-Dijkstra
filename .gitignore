@@ -1,0 +1,22 @@
+# Binaries
+[Oo]bj/
+[Bb]in/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio / IDE specific
+.vs/
+.vscode/
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+
+# Exclude assets from getting ignored
+!assets/
